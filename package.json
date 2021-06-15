@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-ewvariance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute an exponentially weighted variance incrementally.",
   "license": "Apache-2.0",
   "author": {
